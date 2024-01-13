@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anthony O. Ekle"
+title                    : "Anthony's Webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
